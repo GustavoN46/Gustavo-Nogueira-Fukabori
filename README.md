@@ -95,7 +95,7 @@ alt="Most Used Languages"
 <p align="left">
   <a href="mailto:YOUR_EMAIL">Email</a>
   &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/gustavo-nogueira-75441a358/">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="YOUR_WHATSAPP">WhatsApp</a>
 </p>
