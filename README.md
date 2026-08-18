@@ -37,7 +37,7 @@ I also have experience with **Web Development**, creating responsive websites us
 />
 
 <img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoN46&layout=compact&langs_count=5&theme=omni&hide_border=false"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoN46&layout=compact&langs_count=5&theme=omni&hide_border=false&v=2"
   height="165"
   alt="Top Languages"
 />
