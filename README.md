@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Nogueira</h1>
 
 <p align="center">
-  <strong>Python · Data Analysis · Web Development</strong>
+  <em>Python · Data Analysis · Web Development</em>
 </p>
 
 <p align="center">
@@ -12,40 +12,55 @@
 
 ---
 
-## About
+### About
 
-I am a developer currently focused on **Python and Data Analysis**, with an interest in working with data, identifying patterns, and extracting useful information from datasets.
+I'm Gustavo, a developer interested in **Python, data and web development**.
 
-My current studies involve **Python, data analysis, and visualization**, while I also have experience developing web applications and responsive interfaces using **HTML, CSS, JavaScript, and Tailwind CSS**.
+I'm currently focusing on **Data Analysis with Python**, especially working with datasets, tables, graphs and finding patterns in data.
 
-I am particularly interested in combining programming and analytical thinking to solve practical problems and build useful applications.
+I also enjoy building web projects, from simple interfaces to complete applications, using technologies such as **JavaScript, Tailwind CSS and MySQL**.
 
----
-
-## Technical Skills
-
-**Data & Programming**
-
-* Python
-* Data Analysis
-* Data Visualization
-
-**Web Development**
-
-* HTML
-* CSS
-* JavaScript
-* Tailwind CSS
-
-**Database & Tools**
-
-* MySQL
-* Git
-* Visual Studio Code
+Most of what I learn ends up becoming a project.
 
 ---
 
-## GitHub Statistics
+### What I use
+
+<div align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" alt="Tailwind CSS" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
+
+</div>
+
+---
+
+### Projects
+
+Some of the projects I've been working on:
+
+| Project                           | Description                                                          |
+| --------------------------------- | -------------------------------------------------------------------- |
+| **PetinhoShop**                   | Pet shop web application with product, category and user management. |
+| **FrotaCheck**                    | Web application focused on fleet management and vehicle control.     |
+| **Spider-Man Miles Morales Info** | Informational web project about *Spider-Man: Miles Morales*.         |
+
+> More projects and experiments are available in my repositories.
+
+---
+
+### GitHub
 
 <div align="center">
 
@@ -65,29 +80,17 @@ alt="Most Used Languages"
 
 ---
 
-## Technologies
+### Currently
 
-<div align="center">
+**Learning:** Python · Data Analysis · Data Visualization
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="CSS3" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="36" alt="Tailwind CSS" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" />
+**Building:** Web projects and programming experiments
 
-</div>
+**Interested in:** Data, software development and practical projects
 
 ---
 
-## Contact
+### Contact
 
 <p align="left">
   <a href="mailto:YOUR_EMAIL">Email</a>
