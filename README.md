@@ -6,9 +6,18 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/GustavoN46/Gustavo-Nogueira-Fukabori/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=omni&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/GustavoN46/Gustavo-Nogueira-Fukabori/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=GustavoN46&show_icons=true&include_all_commits=true&theme=omni&locale=en&hide_border=false"
+    height="150"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GustavoN46&layout=compact&langs_count=5&theme=omni&hide_border=false"
+    height="150"
+    alt="Top Languages"
+  />
 </div>
 
 ###
